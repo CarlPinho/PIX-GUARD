@@ -1,0 +1,1202 @@
+[
+    {
+        "valor":6995,
+        "chave_nova":1,
+        "mensagem":"Conta será bloqueada, transfira agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":323,
+        "chave_nova":0,
+        "mensagem":"Pagamento de academia",
+        "rotulo":"normal"
+    },
+    {
+        "valor":830,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":351,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":9406,
+        "chave_nova":1,
+        "mensagem":"Promoção exclusiva, pague reserva",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1308,
+        "chave_nova":0,
+        "mensagem":"Divisão de conta do restaurante",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1718,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1904,
+        "chave_nova":0,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1851,
+        "chave_nova":0,
+        "mensagem":"Pagamento de serviço de limpeza",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1824,
+        "chave_nova":0,
+        "mensagem":"Pagamento de serviço de limpeza",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1829,
+        "chave_nova":0,
+        "mensagem":"Pagamento de curso",
+        "rotulo":"normal"
+    },
+    {
+        "valor":805,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1392,
+        "chave_nova":0,
+        "mensagem":"Pagamento de curso",
+        "rotulo":"normal"
+    },
+    {
+        "valor":957,
+        "chave_nova":0,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":40,
+        "chave_nova":0,
+        "mensagem":"Mensalidade da escola",
+        "rotulo":"normal"
+    },
+    {
+        "valor":810,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1532,
+        "chave_nova":0,
+        "mensagem":"Pagamento de academia",
+        "rotulo":"normal"
+    },
+    {
+        "valor":7951,
+        "chave_nova":1,
+        "mensagem":"Empréstimo aprovado, envie taxa",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1242,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":5221,
+        "chave_nova":1,
+        "mensagem":"Deposite para regularizar dívida",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":115,
+        "chave_nova":1,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1674,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":182,
+        "chave_nova":1,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":788,
+        "chave_nova":1,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1486,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":310,
+        "chave_nova":0,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1080,
+        "chave_nova":1,
+        "mensagem":"Pagamento da pizzaria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":659,
+        "chave_nova":1,
+        "mensagem":"Conta de água",
+        "rotulo":"normal"
+    },
+    {
+        "valor":278,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":199,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":983,
+        "chave_nova":0,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":3561,
+        "chave_nova":1,
+        "mensagem":"Seu benefício será cancelado, confirme dados",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":260,
+        "chave_nova":0,
+        "mensagem":"Pagamento de serviço de limpeza",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1905,
+        "chave_nova":1,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":4860,
+        "chave_nova":1,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5058,
+        "chave_nova":1,
+        "mensagem":"Empréstimo aprovado, envie taxa",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1363,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":912,
+        "chave_nova":1,
+        "mensagem":"Problema na conta, transfira já",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":4386,
+        "chave_nova":1,
+        "mensagem":"Ganhou sorteio, pague taxa de liberação",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5114,
+        "chave_nova":1,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":913,
+        "chave_nova":0,
+        "mensagem":"Pagamento de curso",
+        "rotulo":"normal"
+    },
+    {
+        "valor":5279,
+        "chave_nova":0,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1424,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":617,
+        "chave_nova":1,
+        "mensagem":"Conta de água",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1425,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1680,
+        "chave_nova":0,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1549,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":854,
+        "chave_nova":0,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1841,
+        "chave_nova":1,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1421,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1012,
+        "chave_nova":0,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":3977,
+        "chave_nova":1,
+        "mensagem":"Problema na conta, transfira já",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1315,
+        "chave_nova":0,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5107,
+        "chave_nova":1,
+        "mensagem":"Urgente, estou no hospital",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1683,
+        "chave_nova":1,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":906,
+        "chave_nova":0,
+        "mensagem":"Pagamento da pizzaria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1824,
+        "chave_nova":1,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1113,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":670,
+        "chave_nova":0,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":491,
+        "chave_nova":1,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1226,
+        "chave_nova":0,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1947,
+        "chave_nova":0,
+        "mensagem":"Aluguel do mês",
+        "rotulo":"normal"
+    },
+    {
+        "valor":5975,
+        "chave_nova":0,
+        "mensagem":"Multa judicial, pagamento imediato",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":848,
+        "chave_nova":1,
+        "mensagem":"Pagamento de serviço de limpeza",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1273,
+        "chave_nova":1,
+        "mensagem":"Ajuda, estou preso",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1406,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":2979,
+        "chave_nova":1,
+        "mensagem":"Pague agora para liberar o prêmio",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1930,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":4488,
+        "chave_nova":1,
+        "mensagem":"Problema com entrega, pague taxa",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1839,
+        "chave_nova":0,
+        "mensagem":"Pagamento de serviço de limpeza",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1846,
+        "chave_nova":0,
+        "mensagem":"Pagamento de curso",
+        "rotulo":"normal"
+    },
+    {
+        "valor":301,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1221,
+        "chave_nova":0,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1629,
+        "chave_nova":0,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":5603,
+        "chave_nova":1,
+        "mensagem":"Deposite para regularizar dívida",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":3172,
+        "chave_nova":1,
+        "mensagem":"Problema na conta, transfira já",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1588,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":571,
+        "chave_nova":0,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":287,
+        "chave_nova":0,
+        "mensagem":"Aluguel do mês",
+        "rotulo":"normal"
+    },
+    {
+        "valor":317,
+        "chave_nova":0,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":6593,
+        "chave_nova":1,
+        "mensagem":"Seu cadastro expirou, renove agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":7593,
+        "chave_nova":1,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5680,
+        "chave_nova":1,
+        "mensagem":"Pague agora para liberar o prêmio",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":2647,
+        "chave_nova":1,
+        "mensagem":"Dívida em seu nome, regularize agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":3708,
+        "chave_nova":1,
+        "mensagem":"Problema na conta, transfira já",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1648,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1297,
+        "chave_nova":1,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1667,
+        "chave_nova":1,
+        "mensagem":"Pagamento de curso",
+        "rotulo":"normal"
+    },
+    {
+        "valor":4940,
+        "chave_nova":0,
+        "mensagem":"Conta será bloqueada, transfira agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":7838,
+        "chave_nova":1,
+        "mensagem":"Ajuda, estou preso",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":9410,
+        "chave_nova":1,
+        "mensagem":"Deposite para regularizar dívida",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":707,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1524,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":5825,
+        "chave_nova":1,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":9024,
+        "chave_nova":1,
+        "mensagem":"Seu benefício será cancelado, confirme dados",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":7962,
+        "chave_nova":1,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":309,
+        "chave_nova":0,
+        "mensagem":"Pagamento da pizzaria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1615,
+        "chave_nova":0,
+        "mensagem":"Divisão de conta do restaurante",
+        "rotulo":"normal"
+    },
+    {
+        "valor":4927,
+        "chave_nova":0,
+        "mensagem":"Urgente, estou no hospital",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1276,
+        "chave_nova":0,
+        "mensagem":"Doação para ONG",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1272,
+        "chave_nova":0,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":7656,
+        "chave_nova":1,
+        "mensagem":"Problema na conta, transfira já",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":392,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1478,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":952,
+        "chave_nova":1,
+        "mensagem":"Mensalidade da escola",
+        "rotulo":"normal"
+    },
+    {
+        "valor":326,
+        "chave_nova":0,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1297,
+        "chave_nova":1,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":4172,
+        "chave_nova":1,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5369,
+        "chave_nova":1,
+        "mensagem":"Problema na conta, transfira já",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":2699,
+        "chave_nova":1,
+        "mensagem":"Socorro, preciso pagar cirurgia",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1706,
+        "chave_nova":1,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1140,
+        "chave_nova":0,
+        "mensagem":"Conta de água",
+        "rotulo":"normal"
+    },
+    {
+        "valor":383,
+        "chave_nova":1,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1488,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1790,
+        "chave_nova":1,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1001,
+        "chave_nova":0,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":6788,
+        "chave_nova":1,
+        "mensagem":"Promoção exclusiva, pague reserva",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5300,
+        "chave_nova":1,
+        "mensagem":"Multa judicial, pagamento imediato",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":281,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1319,
+        "chave_nova":1,
+        "mensagem":"Doação para ONG",
+        "rotulo":"normal"
+    },
+    {
+        "valor":588,
+        "chave_nova":0,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1874,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":6852,
+        "chave_nova":1,
+        "mensagem":"Multa judicial, pagamento imediato",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":6263,
+        "chave_nova":1,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1017,
+        "chave_nova":0,
+        "mensagem":"Pagamento de academia",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1033,
+        "chave_nova":0,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":867,
+        "chave_nova":0,
+        "mensagem":"Mensalidade da escola",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1757,
+        "chave_nova":1,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":883,
+        "chave_nova":0,
+        "mensagem":"Pagamento de academia",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1871,
+        "chave_nova":1,
+        "mensagem":"Pagamento de curso",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1736,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":8744,
+        "chave_nova":1,
+        "mensagem":"Multa judicial, pagamento imediato",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1001,
+        "chave_nova":0,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1935,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1799,
+        "chave_nova":1,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":527,
+        "chave_nova":1,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1252,
+        "chave_nova":0,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":802,
+        "chave_nova":0,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":7180,
+        "chave_nova":1,
+        "mensagem":"Multa judicial, pagamento imediato",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":747,
+        "chave_nova":1,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1231,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":27,
+        "chave_nova":0,
+        "mensagem":"Pagamento de serviço de limpeza",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1518,
+        "chave_nova":0,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":7911,
+        "chave_nova":1,
+        "mensagem":"Conta será bloqueada, transfira agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":3010,
+        "chave_nova":1,
+        "mensagem":"Conta será bloqueada, transfira agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1773,
+        "chave_nova":0,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":2652,
+        "chave_nova":1,
+        "mensagem":"Problema com entrega, pague taxa",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1635,
+        "chave_nova":1,
+        "mensagem":"Seu benefício será cancelado, confirme dados",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1754,
+        "chave_nova":0,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1484,
+        "chave_nova":1,
+        "mensagem":"Pagamento de academia",
+        "rotulo":"normal"
+    },
+    {
+        "valor":302,
+        "chave_nova":0,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":2675,
+        "chave_nova":1,
+        "mensagem":"Imposto atrasado, pague com urgência",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1752,
+        "chave_nova":0,
+        "mensagem":"Seu cadastro expirou, renove agora",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":8978,
+        "chave_nova":1,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":3686,
+        "chave_nova":1,
+        "mensagem":"Deposite para regularizar dívida",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":122,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":268,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1648,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":120,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":690,
+        "chave_nova":0,
+        "mensagem":"Seu cartão foi bloqueado, regularize",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1725,
+        "chave_nova":0,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1298,
+        "chave_nova":1,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1992,
+        "chave_nova":0,
+        "mensagem":"Conta de internet",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1251,
+        "chave_nova":0,
+        "mensagem":"Compra no mercado",
+        "rotulo":"normal"
+    },
+    {
+        "valor":7603,
+        "chave_nova":1,
+        "mensagem":"Seu benefício será cancelado, confirme dados",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1440,
+        "chave_nova":0,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1051,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":7279,
+        "chave_nova":1,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":5881,
+        "chave_nova":1,
+        "mensagem":"Multa judicial, pagamento imediato",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1604,
+        "chave_nova":1,
+        "mensagem":"Compra de livro",
+        "rotulo":"normal"
+    },
+    {
+        "valor":130,
+        "chave_nova":1,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":2213,
+        "chave_nova":1,
+        "mensagem":"Socorro, preciso pagar cirurgia",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":629,
+        "chave_nova":1,
+        "mensagem":"Conta de água",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1777,
+        "chave_nova":0,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1704,
+        "chave_nova":0,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1451,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":711,
+        "chave_nova":0,
+        "mensagem":"Transferência para familiar",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1361,
+        "chave_nova":0,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1961,
+        "chave_nova":0,
+        "mensagem":"Conta de luz",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1188,
+        "chave_nova":1,
+        "mensagem":"Sua conta foi invadida, transfira saldo",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":667,
+        "chave_nova":1,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":178,
+        "chave_nova":0,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":633,
+        "chave_nova":0,
+        "mensagem":"Presente para amigo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1459,
+        "chave_nova":1,
+        "mensagem":"Divisão de conta do restaurante",
+        "rotulo":"normal"
+    },
+    {
+        "valor":4766,
+        "chave_nova":1,
+        "mensagem":"Parente em perigo, mande dinheiro",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1663,
+        "chave_nova":1,
+        "mensagem":"Compra online",
+        "rotulo":"normal"
+    },
+    {
+        "valor":916,
+        "chave_nova":0,
+        "mensagem":"Mensalidade da escola",
+        "rotulo":"normal"
+    },
+    {
+        "valor":476,
+        "chave_nova":0,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1462,
+        "chave_nova":1,
+        "mensagem":"Transferência para conta própria",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1705,
+        "chave_nova":0,
+        "mensagem":"Mensalidade da escola",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1754,
+        "chave_nova":1,
+        "mensagem":"Conta de água",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1208,
+        "chave_nova":1,
+        "mensagem":"Pagamento de streaming",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1286,
+        "chave_nova":0,
+        "mensagem":"Presente de aniversário",
+        "rotulo":"normal"
+    },
+    {
+        "valor":996,
+        "chave_nova":1,
+        "mensagem":"Pagamento de academia",
+        "rotulo":"normal"
+    },
+    {
+        "valor":5598,
+        "chave_nova":1,
+        "mensagem":"Urgente, estou no hospital",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":7309,
+        "chave_nova":1,
+        "mensagem":"Problema com entrega, pague taxa",
+        "rotulo":"golpe"
+    },
+    {
+        "valor":1548,
+        "chave_nova":1,
+        "mensagem":"Divisão de conta do restaurante",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1097,
+        "chave_nova":0,
+        "mensagem":"Aluguel do mês",
+        "rotulo":"normal"
+    },
+    {
+        "valor":949,
+        "chave_nova":0,
+        "mensagem":"Mensalidade da escola",
+        "rotulo":"normal"
+    },
+    {
+        "valor":1194,
+        "chave_nova":1,
+        "mensagem":"Pagamento de aplicativo",
+        "rotulo":"normal"
+    }
+]
