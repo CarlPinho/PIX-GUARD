@@ -7,6 +7,8 @@ import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import classification_report, accuracy_score
 import scipy.sparse
 import joblib
 from datetime import datetime
@@ -127,23 +129,62 @@ class ModeloPixGuard:
             self._treinar_modelo()
 
     def _treinar_modelo(self):
+        """Treina o modelo com separação adequada dos dados para evitar overfitting"""
+        print("Gerando dados sintéticos...")
         dados = self._gerar_dados_sinteticos()
+        
+        # Preparar features
         X_valor = dados[['valor', 'chave_nova']]
         X_mensagem = dados['mensagem']
         y = dados['rotulo']
-
+        
+        # ===== SEPARAÇÃO DOS DADOS PARA EVITAR OVERFITTING =====
+        print("Separando dados em treino e teste...")
+        X_valor_train, X_valor_test, X_msg_train, X_msg_test, y_train, y_test = train_test_split(
+            X_valor, X_mensagem, y, 
+            test_size=0.2,           # 20% para teste
+            random_state=42,         # Reprodutibilidade
+            stratify=y              # Manter proporção das classes
+        )
+        
+        print(f"Dados de treino: {len(X_valor_train)} amostras")
+        print(f"Dados de teste: {len(X_valor_test)} amostras")
+        
+        # Treinar vetorizador APENAS com dados de treino
         self.vetorizador = TfidfVectorizer()
-        X_mensagem_tfidf = self.vetorizador.fit_transform(X_mensagem)
-
-        X_numerico_sparse = scipy.sparse.csr_matrix(X_valor.values)
-        X_final = scipy.sparse.hstack((X_numerico_sparse, X_mensagem_tfidf))
-
+        X_msg_train_tfidf = self.vetorizador.fit_transform(X_msg_train)
+        
+        # Preparar dados de treino
+        X_numerico_train_sparse = scipy.sparse.csr_matrix(X_valor_train.values)
+        X_train_final = scipy.sparse.hstack((X_numerico_train_sparse, X_msg_train_tfidf))
+        
+        # Treinar modelo
+        print("Treinando modelo Random Forest...")
         self.modelo = RandomForestClassifier(n_estimators=100, random_state=42)
-        self.modelo.fit(X_final, y)
-
+        self.modelo.fit(X_train_final, y_train)
+        
+        # ===== AVALIAÇÃO NO CONJUNTO DE TESTE =====
+        print("Avaliando modelo no conjunto de teste...")
+        
+        # Transformar dados de teste (SEM fit, apenas transform!)
+        X_msg_test_tfidf = self.vetorizador.transform(X_msg_test)
+        X_numerico_test_sparse = scipy.sparse.csr_matrix(X_valor_test.values)
+        X_test_final = scipy.sparse.hstack((X_numerico_test_sparse, X_msg_test_tfidf))
+        
+        # Fazer predições no conjunto de teste
+        y_pred = self.modelo.predict(X_test_final)
+        
+        # Calcular métricas
+        accuracy = accuracy_score(y_test, y_pred)
+        print(f"\n📊 RESULTADOS DA AVALIAÇÃO:")
+        print(f"Acurácia no conjunto de teste: {accuracy:.3f}")
+        print(f"\nRelatório detalhado:")
+        print(classification_report(y_test, y_pred))
+        
+        # Salvar modelo
         joblib.dump(self.modelo, os.path.join(DIRETORIO_MODELOS, "modelo_pixguard.pkl"))
         joblib.dump(self.vetorizador, os.path.join(DIRETORIO_MODELOS, "vetor_tfidf_pixguard.pkl"))
-        print("Modelo treinado e salvo com sucesso!")
+        print("✅ Modelo treinado e salvo com sucesso!")
 
     def _gerar_dados_sinteticos(self):
         mensagens_normais = [
@@ -262,3 +303,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
